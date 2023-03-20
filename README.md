@@ -1,2 +1,2 @@
-É só um jogo da forca feito em java.
+É só um jogo da forca feito em java ☕.
 Essa é minnha forma de aprender Java na prática 😊.
