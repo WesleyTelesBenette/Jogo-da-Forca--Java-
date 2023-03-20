@@ -1,0 +1,8 @@
+Lasanha:Comida;
+Assaltante:Profissão;
+Lixeiro:Profissão;
+Beterraba:Comida;
+Arbusto:Planta;
+Macaco:Animal;
+Elefante:Animal;
+Mendigo:Profissão;
